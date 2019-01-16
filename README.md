@@ -32,6 +32,18 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 ## MVP Requirements
 
 - [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
+
+Responsive Units:
+Lines 146, 174, 181, 183, 197, 198, 202, 204, 208 210. basically throughou the entire HTML structure.
+
+Media queries:
+Lines 81, 118, 126, 134, 351, 687, 695, 825, 1191, 1401, 1595.
+
+Interesting things:
+-Background image filepath was found in th CSS but the rest of the images were found in HTML.
+-Used "screen" instead of default all for media queries.
+-line 1606 "-moz- transform, moz === mozilla?
+
 - [ ] Customize the template to you 
 	- [ ] Update the title tag match your name
 	- [ ] Update the place holder content throughout the template to your information
